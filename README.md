@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alex Mathew 👋</h1>
 <p align="center">
-  <img src="typing.svg" alt="Computer Engineering student @ FCRIT · Smart India Hackathon 2026 Team Leader · Android, Web and Blockchain developer · Open to internships">
+  <img src="header-typing.svg" alt="Computer Engineering student @ FCRIT · Smart India Hackathon 2026 Team Leader · Android, Web and Blockchain developer · Open to internships">
 </p>
 <p align="center">
   <b>Computer Engineering student (3rd year) at Fr. C. Rodrigues Institute of Technology, Vashi</b><br>
