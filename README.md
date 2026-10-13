@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SIH%202026-Team%20Leader-orange?style=for-the-badge" alt="SIH 2026 Team Leader">
-  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-blue?style=for-the-badge" alt="Navi Mumbai">
+  <img src="https://img.shields.io/badge/Location-Mumbai-blue?style=for-the-badge" alt="Mumbai">
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" alt="Open to internships">
 </p>
 
