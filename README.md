@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/Location-Mumbai-blue?style=for-the-badge" alt="Mumbai">
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" alt="Open to internships">
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-mathew"><img src="https://img.shields.io/badge/LinkedIn-alex--mathew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
