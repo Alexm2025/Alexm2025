@@ -21,7 +21,7 @@
 ## 🏆 Achievements
 
 - **Smart India Hackathon 2026: Team Leader, Team JustWeMet.** Selected through FCRIT's internal SIH hackathon (Aug 2026) and officially nominated by the college for SIH 2026. Our solution, **KATHA** (problem SIH26042, Smart Education), is an AI tool that translates Hindi primary-school lessons into Ho, Mundari and Santhali, with real-time voice translation for teachers and offline support on low-cost Android tablets.
-- **HACK ON TRACK 2026** (24-hour national hackathon, FCRIT Vashi): built and presented [**EcoCredx**](https://github.com/Alexm2025/EcoCredx), a blockchain marketplace for environmental credits.
+- **🏆 First Runner-Up, HACK ON TRACK 2026** (24-hour national hackathon, FCRIT Vashi, Oct 2026). Led Team Lungi to build [**MediChain**](https://github.com/Alexm2025/TeamLungi), a blockchain platform that tracks medicine batches from manufacturer to pharmacy so anyone can verify a pack by QR code. Won ₹15,000. I also built and presented [**EcoCredx**](https://github.com/Alexm2025/EcoCredx), a blockchain marketplace for environmental credits, at the same hackathon.
 - **Assistant Documentation Head, CSI FCRIT** (Computer Society of India student chapter).
 - **Shipped to real users:** a live production website for an HR services company ([The Guardians](https://alexm2025.github.io/guardians/)), and a blockchain marketplace with a public demo and a downloadable Android app ([EcoCredx](https://alexm2025.github.io/EcoCredx/)).
 
@@ -29,6 +29,7 @@
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**MediChain**](https://github.com/Alexm2025/TeamLungi) 🏆 | Medicine batch tracking on blockchain: manufacturers register batches, every handover needs sender, receiver and regulator signatures, and anyone can scan a pack's QR code to see if it's genuine, recalled or expired, with no wallet needed. **First Runner-Up at HACK ON TRACK 2026**; I led the 3-person team. · [Live demo](https://alexm2025.github.io/TeamLungi/) | Solidity, Hardhat, React, ethers.js, MetaMask |
 | [**EcoCredx**](https://github.com/Alexm2025/EcoCredx) | Marketplace for environmental credits: earn credits for verified eco-work, trade them peer-to-peer, retire them on-chain. 2 smart contracts, 5 credit types and 30 automated tests, plus a React web app and an Android app. Built for HACK ON TRACK 2026. · [Live demo](https://alexm2025.github.io/EcoCredx/) | Solidity, React, ethers.js, Hardhat, Capacitor |
 | [**cafe-app**](https://github.com/Alexm2025/cafe-app) | Android cafe ordering app: menu, cart, checkout and order history, with server-side pricing on Supabase so clients can't tamper with prices; 6 screens and 33 unit tests. Team project. | Kotlin, Room, Supabase, PostgreSQL |
 | [**resume-analyzer-ai**](https://github.com/Alexm2025/resume-analyzer-ai) | Upload a resume PDF, get an ATS-readiness score, missing-section warnings and AI rewrite suggestions. | Python, Flask, SQLite, OpenAI API |
