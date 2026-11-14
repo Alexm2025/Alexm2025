@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="270" viewBox="0 0 430 270">
+<style>
+.t{font:700 18px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#E2E8F0}
+.l{font:500 14px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#94A3B8}
+.v{font:700 15px 'Fira Code',Consolas,monospace;fill:#F8FAFC}
+.fade{animation:in .6s ease both}
+@keyframes in{from{opacity:0}to{opacity:1}}
+</style>
+<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect x=".5" y=".5" width="429" height="269" rx="14" fill="#0B1324" stroke="#1E293B"/><rect x="24" y="52" width="40" height="3" rx="1.5" fill="url(#a)"/><text x="24" y="38" class="t">GitHub Stats</text><g class="fade" style="animation-delay:0ms"><text x="24" y="88" class="l" fill="url(#a)"><tspan fill="#38BDF8">★</tspan>  Total stars</text><text x="406" y="88" class="v" text-anchor="end">13</text></g><g class="fade" style="animation-delay:120ms"><text x="24" y="118" class="l" fill="url(#a)"><tspan fill="#38BDF8">⎇</tspan>  Commits (this year)</text><text x="406" y="118" class="v" text-anchor="end">237</text></g><g class="fade" style="animation-delay:240ms"><text x="24" y="148" class="l" fill="url(#a)"><tspan fill="#38BDF8">▦</tspan>  Contributions (last year)</text><text x="406" y="148" class="v" text-anchor="end">250</text></g><g class="fade" style="animation-delay:360ms"><text x="24" y="178" class="l" fill="url(#a)"><tspan fill="#38BDF8">⇄</tspan>  Pull requests</text><text x="406" y="178" class="v" text-anchor="end">3</text></g><g class="fade" style="animation-delay:480ms"><text x="24" y="208" class="l" fill="url(#a)"><tspan fill="#38BDF8">▣</tspan>  Public repositories</text><text x="406" y="208" class="v" text-anchor="end">10</text></g><g class="fade" style="animation-delay:600ms"><text x="24" y="238" class="l" fill="url(#a)"><tspan fill="#38BDF8">◎</tspan>  Contributed to</text><text x="406" y="238" class="v" text-anchor="end">2</text></g></svg>
